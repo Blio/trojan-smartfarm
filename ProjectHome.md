@@ -1,0 +1,1 @@
+Created by Alkema Woods.  Started project at Virginia State University in Petersburg, VA to create a site-specific farm management mobile application, as part of M.S. thesis.
